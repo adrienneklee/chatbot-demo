@@ -44,3 +44,8 @@
 .rcb-chat-header {
   display: none !important;
 }
+
+.rcb-chat-window {
+  width: 500px;
+  height: 650px;
+}
