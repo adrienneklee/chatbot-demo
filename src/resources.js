@@ -1,7 +1,7 @@
 export const helpOptions = [
     "The Environment", 
     "Healthcare", 
-    "Affordability & Infrastructure", 
+    "Affordability", 
     "Housing", 
     "Education"
 ];
